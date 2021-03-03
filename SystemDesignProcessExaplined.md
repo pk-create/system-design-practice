@@ -4,17 +4,17 @@ _**The examples consider design twitter as a question.**_
 
 * Need to iddentify the scope of the problem. 
 
-Ex - few questions to ask for scoping : 
-     * Users of service post tweets, like them, save them
-     * Tweets will contains photos and videos ?
-     * Will we need to search for a tweet ?
-     * Do we need to ddesign notification for new tweets ?
+Ex - few questions to ask for scoping: 
+     1. Users of service post tweets, like them, save them
+     2. Tweets will contains photos and videos ?
+     3. Will we need to search for a tweet ?
+     4. Do we need to ddesign notification for new tweets ?
 
 
 ## Step 2 - Back-of-envolope Estimation
 
 * Try to estimate the scale of the system
-* Focus on asking questions like below : 
+* Focus on asking questions like below: 
   1. Scaling 
   2. Sharding/Partitioning 
   3. Load Balancing 
