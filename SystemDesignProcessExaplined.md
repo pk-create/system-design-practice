@@ -4,7 +4,8 @@ _**The examples consider design twitter as a question.**_
 
 * Need to iddentify the scope of the problem. 
 
-Ex - * Users of service post tweets, like them, save them
+Ex - few questions to ask for scoping : 
+     * Users of service post tweets, like them, save them
      * Tweets will contains photos and videos ?
      * Will we need to search for a tweet ?
      * Do we need to ddesign notification for new tweets ?
